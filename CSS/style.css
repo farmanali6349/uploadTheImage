@@ -12,7 +12,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('/RESOURCES/images/background.jpg');
+    background: url('RESOURCES/images/background.jpg');
     background-position: center;
     background-size: cover;
 }
